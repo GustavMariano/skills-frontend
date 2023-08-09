@@ -5,15 +5,15 @@
 
 <h2 align="center">Login</h2>
 <hr>
-<p align="center"><img src="https://github.com/GustavMariano/skills-frontend/blob/main/images/login.jpg" alt="Database schema"></p>
+<p align="center"><img src="https://github.com/GustavMariano/skills-frontend/blob/main/images/login.jpg" alt="Login"></p>
 <hr>
 <h2 align="center">Cadastro</h2>
 <hr>
-<p align="center"><img src="https://github.com/GustavMariano/skills-frontend/blob/main/images/cadastro.jpg" alt="Swagger documentation"></p>
+<p align="center"><img src="https://github.com/GustavMariano/skills-frontend/blob/main/images/cadastro.jpg" alt="Cadastro"></p>
 <hr>
 <h2 align="center">Home</h2>
 <hr>
-<p align="center"><img src="https://github.com/GustavMariano/skills-frontend/blob/main/images/home.jpg" alt="Swagger documentation"></p>
+<p align="center"><img src="https://github.com/GustavMariano/skills-frontend/blob/main/images/home.jpg" alt="Home"></p>
 <hr>
 <p align="center">Tecnologias Utilizadas
 <br>
