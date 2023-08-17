@@ -20,5 +20,4 @@
 <br>React.js
 <br>Axios
 <br>Material UI
-<br>Bootstrap
 <hr>
